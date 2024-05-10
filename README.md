@@ -20,6 +20,7 @@
 > 실무 프로젝트, 토이 프로젝트
 
 - [ 토이 프로젝트 여행 리뷰 사이트 프로젝트 후기 ](https://drg2524.tistory.com/133)
+- [ 주니어 개발자 STT-CTI 프로젝트 후기 ](https://drg2524.tistory.com/183)
 
 <br>
 
