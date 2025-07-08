@@ -13,6 +13,7 @@
 > 회고록
 
 - [ 화학 연구원 출신 주니어 개발자 2023년 회고록 ](https://drg2524.tistory.com/154)
+- [ 화학 연구원 출신 주니어 개발자 2024년 회고록 ](https://drg2524.tistory.com/199)
 
 <br>
 
@@ -22,6 +23,8 @@
 - [ 토이 프로젝트 여행 리뷰 사이트 프로젝트 후기 ](https://drg2524.tistory.com/133)
 - [ 주니어 개발자 STT-CTI 프로젝트 후기 ](https://drg2524.tistory.com/183)
 - [ LG U+ 현행화 프로젝트 후기 ](https://drg2524.tistory.com/191)
+- [ 토지 분양 정보 시스템 프로젝트 후기 ](https://drg2524.tistory.com/197)
+- [ 애플리케이션 성능 모니터링(APM) 시스 프로젝트 후기 ](https://drg2524.tistory.com/214)
 
 <br>
 
